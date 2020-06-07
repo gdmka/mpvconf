@@ -1,0 +1,1 @@
+[mpv-autosub manual](https://github.com/davidde/mpv-autosub)
