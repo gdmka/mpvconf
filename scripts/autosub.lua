@@ -15,7 +15,7 @@ local languages = {
 --          other languages will NOT be downloaded,
 --          so put your preferred language first:
             { 'English', 'en', 'eng' },
-            -- { 'Dutch', 'nl', 'dut' },
+--          { 'Dutch', 'nl', 'dut' },
 --          { 'Spanish', 'es', 'spa' },
 --          { 'French', 'fr', 'fre' },
 --          { 'German', 'de', 'ger' },
@@ -36,7 +36,7 @@ local languages = {
 local logins = {
             { '--addic7ed', '', '' },
 --          { '--legendastv', 'USERNAME', 'PASSWORD' },
-            { '--opensubtitles', '', '' },
+            { '--opensubtitles', '', '' }, -- Opensubtitles.org
 --          { '--subscenter', 'USERNAME', 'PASSWORD' },
 }
 --=============================================================================
